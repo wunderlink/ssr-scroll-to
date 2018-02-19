@@ -9,7 +9,9 @@
   ],
   "dependencies": {
     "component-raf": "1.2.0",
-    "component-tween": "1.2.0"
+    "component-tween": "1.2.0",
+    "raf": "^3.4.0",
+    "tween": "^0.9.0"
   },
   "browser": {
     "raf": "component-raf",
